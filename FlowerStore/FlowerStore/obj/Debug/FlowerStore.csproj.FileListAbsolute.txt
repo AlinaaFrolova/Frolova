@@ -1,0 +1,10 @@
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\bin\Debug\FlowerStore.exe.config
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\bin\Debug\FlowerStore.exe
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\bin\Debug\FlowerStore.pdb
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.Form1.resources
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.Properties.Resources.resources
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.csproj.GenerateResource.cache
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.exe
+C:\Users\Van\source\repos\FlowerStore\FlowerStore\obj\Debug\FlowerStore.pdb
